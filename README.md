@@ -17,7 +17,7 @@
 
 ### Connect with Me :
 
-<a href="[https://telegram.me/Osamamohamed1710](https://www.linkedin.com/in/osama-abo-el-ela/)" target="_blank"><img src="https://img.shields.io/badge/osama%20 Abo el ela-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/osama-abo-el-ela/" target="_blank"><img src="https://img.shields.io/badge/osama%20 Abo el ela-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://telegram.me/Osamamohamed1710" target="_blank"><img src="https://img.shields.io/badge/osama%20 Abo el ela-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
